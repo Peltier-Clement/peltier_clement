@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+      <meta charset="utf-8" />
+      <title>CV</title>
+      <link rel="stylesheet" href="style.css" />
+      <link rel="stylesheet" media="screen and (max-width: 1200px)" href="petite_resolution.css" />
+    </head>
+    <body img src="http://maximumwallhd.com/wp-content/uploads/2017/05/wallpaper-image-wallpapers-abstrait-hd-20.jpg" alt="Fond" title="Fond">
+      <h1>Peltier Clément</h1>
+      <hr></hr>
+        <h2>Développeur Web  <a id="github"href="https://github.com/nisted"><img src="/home/peltier/Téléchargements/github1.png" alt="github"/></a></h2>
+        <hr></hr>
+         <p>Tél: 07.82.71.58.37</p>
+         <p>23 ans</p>
+         <p>clement.p10@laposte.net</p>
+      <form>
+          <fieldset class="section1">
+          <legend class="section1">Mes Diplômes</legend>
+          <ol>
+            <ul><span style="font-weight:bold">2009/2010:</span> Brevet des Collèges-Collège Jules Verne à Rivery</ul>
+            <ul><span style="font-weight:bold">2011/2012:</span> BEP Production Graphique-Lycée Professionnelle Montaigne</ul>
+            <ul><span style="font-weight:bold">2012/2013:</span> Bac Professionnelle Production Graphique-Lycée Professionnelle Montaigne</ul>
+          </ol>
+        </fieldset>
+      </legend>
+          <fieldset class="section2">
+            <legend class="section2">Experiences Professionnels</legend>
+            <ol>
+              <ul><span style="font-weight:bold">2010/2011:</span> Infographiste stagiaire-DB Print Picardie-Poulainville (2 semaines)</ul>
+              <ul>Découverte du métier et du fonctionnement d'une imprimerie.</ul>
+              <ul><span style="font-weight:bold">2011/2012:</span> Infographiste stagiaire-DB Print Picardie-Poulainville (1 mois)</ul>
+              <ul>Travail sur marchine et en PAO.</ul>
+              <ul>Remplacement d'un ouvrier en CTP pendant une journée.</ul>
+              <ul><span style="font-weight:bold">2012/2013:</span> Infographiste stagiaire-DB Print Picardie-Poulainville (1 mois)</ul>
+              <ul>Intervention en autonomie dans l'atelier sur machine et en PAO.</ul>
+              <ul><span style="font-weight:bold">juil.à sept.2014:</span> Agent de conditionnement-SOMME EMPLOI SERVICE / APF-Amiens</ul>
+              <ul><span style="font-weight:bold">Mai 2015:</span> Vendeur en magasin satgiaire-BRICE-Amiens (2 semaines)</ul>
+              <ul>Réception colis et mise en rayon.</ul>
+              <ul>Merch et vitrine en binôme.</ul>
+              <ul>Prise de contact avec le client.</ul>
+              <ul><span style="font-weight:bold">Juil.2015 à sept.2015:</span> Agent de conditionnement-SOMME EMPLOI SERVICE/APF-Amiens</ul>
+              <ul><span style="font-weight:bold">Avr.2016 à sept.2017:</span> Agent de conditionnement-SOMME EMPLOI SERVICE/APF-Amiens</ul>
+            </ol>
+          </fieldset>
+        </legend>
+        <fieldset class="section3">
+          <legend class="section3">Mes Compétences</legend>
+          <ol>
+            <ul><span style="font-weight:bold">html</span> <meter min=O max=10 value=3>3units</meter></ul>
+            <ul><span style="font-weight:bold">css</span> <meter min=O max=10 value=3>3units</meter></ul>
+            <ul><span style="font-weight:bold">InDesign</span> <meter min=O max=10 value=10>10units</meter></ul>
+            <ul><span style="font-weight:bold">Illustrator</span> <meter min=O max=10 value=10>10units</meter></ul>
+            <ul><span style="font-weight:bold">Photoshop</span> <meter min=O max=10 value=8>8units</meter></ul>
+            <ul><span style="font-weight:bold">QuarkExpress</span> <meter min=O max=10 value=9>9units</meter></ul>
+        </ol>
+      </fieldset>
+    </legend>
+  </form>
+      <h3>Création récente sous Illustrator :</h3>
+        <img src="https://pbs.twimg.com/profile_images/1039864103588773888/dRyIlxlI_400x400.jpg" alt="Image Foot" title="Foot" />
+    </body>
+    </html>

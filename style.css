@@ -1,0 +1,58 @@
+@media screen and (max-width: 1200px)
+{
+  #bloc-page
+  {
+    width: auto;
+  }
+}
+body {
+  background-image: url(http://maximumwallhd.com/wp-content/uploads/2017/05/wallpaper-image-wallpapers-abstrait-hd-20.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+form {
+  color: black;
+}
+ul {
+  color: black;
+  line-height: 25pt;
+  text-align: center;
+}
+ul span {
+  font-style: italic;
+  text-decoration: underline;
+}
+img {
+  width: 15%;
+  height: 35%;
+}
+h1 {
+  color: white;
+  text-shadow: 4px 4px 4px black;
+  font-size: 500%;
+  font-family: amanda;
+}
+p {
+  color: white;
+  text-shadow: 4px 4px 4px black;
+  font-size: 130%;
+  font-family: mermaid;
+}
+#github {
+  width: 70%;
+  height: 65%;
+  float: right;
+}
+h2 {
+  font-family: amanda;
+  text-shadow: 4px 4px 4px black;
+  font-size: 250%;
+  color: white;
+}
+h3 {
+  color: black;
+  font-family: mermaid;
+  font-size: 30px;
+  text-decoration: underline;
+  text-align: left;
+}
